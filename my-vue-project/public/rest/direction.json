@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"lb-1"},
+{"type":"table","name":"direction","database":"lb-1","data":
+[
+{"id_direction":"8","name_direction":"Бакалавриат"},
+{"id_direction":"11","name_direction":"Магистратура"}
+]
+}
+]

@@ -1,0 +1,16 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"lb-1"},
+{"type":"table","name":"direction","database":"lb-1","data":
+[
+{"id_direction":"8","name_direction":"Бакалавриат"},
+{"id_direction":"11","name_direction":"Магистратура"}
+]
+}
+,{"type":"table","name":"students","database":"lb-1","data":
+[
+{"id":"36","img_student":"img\/1666237073_26-mykaleidoscope-ru-p-grustnii-student-pinterest-35.jpg","name_student":"Гаврилов Демид Сергеевич","course_direction":"8","name_group":"ПРИБ","year":"2004"},
+{"id":"37","img_student":"img\/glavnaja-student-s-knigami-v-rukah-sidit-na-skame.jpg","name_student":"Мухин Виталий Андреевич","course_direction":"8","name_group":"ПИБ","year":"2001"}
+]
+}
+]
